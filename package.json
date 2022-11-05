@@ -1,0 +1,18 @@
+{
+  "name": "redux-saga-like-runtime",
+  "version": "0.0.1",
+  "description": "Or... I did not know I could write Sagas without Redux!",
+  "main": "index.js",
+  "repository": "https://github.com/KajiTetsushi/redux-saga-like-runtime",
+  "author": {
+    "email": "KajiTetsushi@outlook.com",
+    "name": "Kaji Tetsushi"
+  },
+  "license": "MIT",
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
